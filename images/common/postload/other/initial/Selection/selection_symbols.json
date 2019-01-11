@@ -1,0 +1,102 @@
+{"frames": {
+
+"10.png":
+{
+	"frame": {"x":2,"y":2,"w":138,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":3,"w":138,"h":136},
+	"sourceSize": {"w":158,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"A.png":
+{
+	"frame": {"x":142,"y":2,"w":120,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":0,"w":120,"h":142},
+	"sourceSize": {"w":158,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Anubis.png":
+{
+	"frame": {"x":264,"y":2,"w":158,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":158,"h":134},
+	"sourceSize": {"w":158,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Isis.png":
+{
+	"frame": {"x":424,"y":2,"w":154,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":154,"h":135},
+	"sourceSize": {"w":158,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"J.png":
+{
+	"frame": {"x":580,"y":2,"w":113,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":2,"w":113,"h":139},
+	"sourceSize": {"w":158,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"K.png":
+{
+	"frame": {"x":695,"y":2,"w":114,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":4,"w":114,"h":135},
+	"sourceSize": {"w":158,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pharoah.png":
+{
+	"frame": {"x":811,"y":2,"w":158,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":158,"h":134},
+	"sourceSize": {"w":158,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Q.png":
+{
+	"frame": {"x":971,"y":2,"w":121,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":9,"w":121,"h":124},
+	"sourceSize": {"w":158,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Scatter.png":
+{
+	"frame": {"x":1094,"y":2,"w":157,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":157,"h":135},
+	"sourceSize": {"w":158,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Wild.png":
+{
+	"frame": {"x":1253,"y":2,"w":156,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":156,"h":134},
+	"sourceSize": {"w":158,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "selection_symbols_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1411,"h":146},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e1d6905eb3f7e7eb398f175cb82d5548:6a2b5581161883ef0d76c27fc36d6fdc:d295ed7153fe372207e34d26d380974a$"
+}
+}

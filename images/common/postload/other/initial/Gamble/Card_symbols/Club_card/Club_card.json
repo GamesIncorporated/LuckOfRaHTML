@@ -1,0 +1,48 @@
+{"frames": {
+
+"1Club_card_normal.png":
+{
+	"frame": {"x":2,"y":2,"w":144,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":123},
+	"sourceSize": {"w":144,"h":123},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2Club_card_over.png":
+{
+	"frame": {"x":2,"y":127,"w":144,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":123},
+	"sourceSize": {"w":144,"h":123},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3Club_card_down.png":
+{
+	"frame": {"x":2,"y":252,"w":140,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":140,"h":119},
+	"sourceSize": {"w":144,"h":123},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"4Club_card_disable.png":
+{
+	"frame": {"x":2,"y":373,"w":144,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":123},
+	"sourceSize": {"w":144,"h":123},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Club_card_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":148,"h":498},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:00eaee5820f1b228e5a63190f80dbcef:d77bc3f944f30a28af7802a60862497b:a02458ace153abe18e22acb29e0988e1$"
+}
+}

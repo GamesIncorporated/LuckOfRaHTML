@@ -1,0 +1,75 @@
+{"frames": {
+
+"3x3_reel_highlighter_00000.png":
+{
+	"frame": {"x":0,"y":0,"w":719,"h":608},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":719,"h":608},
+	"sourceSize": {"w":719,"h":608},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3x3_reel_highlighter_00001.png":
+{
+	"frame": {"x":719,"y":0,"w":719,"h":608},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":719,"h":608},
+	"sourceSize": {"w":719,"h":608},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3x3_reel_highlighter_00002.png":
+{
+	"frame": {"x":0,"y":608,"w":719,"h":608},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":719,"h":608},
+	"sourceSize": {"w":719,"h":608},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3x3_reel_highlighter_00003.png":
+{
+	"frame": {"x":719,"y":608,"w":719,"h":608},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":719,"h":608},
+	"sourceSize": {"w":719,"h":608},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3x3_reel_highlighter_00004.png":
+{
+	"frame": {"x":0,"y":1216,"w":719,"h":608},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":719,"h":608},
+	"sourceSize": {"w":719,"h":608},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3x3_reel_highlighter_00005.png":
+{
+	"frame": {"x":719,"y":1216,"w":719,"h":608},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":719,"h":608},
+	"sourceSize": {"w":719,"h":608},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3x3_reel_highlighter_00006.png":
+{
+	"frame": {"x":0,"y":1824,"w":719,"h":608},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":719,"h":608},
+	"sourceSize": {"w":719,"h":608},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "3x3_reel_highlighter.png",
+	"format": "RGBA8888",
+	"size": {"w":1438,"h":2432},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f093435c2e84d427457afe486820ee2d:372e834624da5e19fbd046e24033cf5d:c2376945e066d40579055b16a0a3cf37$"
+}
+}

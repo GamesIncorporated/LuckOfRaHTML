@@ -1,0 +1,48 @@
+{"frames": {
+
+"1black_btn_normal.png":
+{
+	"frame": {"x":2,"y":2,"w":309,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":5,"w":309,"h":99},
+	"sourceSize": {"w":315,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2black_btn_over.png":
+{
+	"frame": {"x":2,"y":103,"w":315,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":315,"h":102},
+	"sourceSize": {"w":315,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3black_btn_down.png":
+{
+	"frame": {"x":2,"y":207,"w":305,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":6,"w":305,"h":98},
+	"sourceSize": {"w":315,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"4black_btn_disable.png":
+{
+	"frame": {"x":2,"y":307,"w":309,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":5,"w":309,"h":99},
+	"sourceSize": {"w":315,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Black_btn_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":319,"h":408},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6396892dc2f6761ebb47caf1247fad27:9f39473d504a26a53e46a2b28c7b631f:fb99c425d4474dad7603d3b7f365460a$"
+}
+}

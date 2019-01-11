@@ -1,0 +1,30 @@
+{"frames": {
+
+"16Gamble_Btn.png":
+{
+	"frame": {"x":2,"y":2,"w":201,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":63},
+	"sourceSize": {"w":201,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"17Gamble_Btn.png":
+{
+	"frame": {"x":2,"y":67,"w":201,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":63},
+	"sourceSize": {"w":201,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gamble_btn_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":205,"h":132},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:71e012e76752d9ffa275c11d5604bfb2:57c312f05e8fbbf08d38e2d347918a24:fc9e99330fbebbd5b57e7a0663e94a64$"
+}
+}

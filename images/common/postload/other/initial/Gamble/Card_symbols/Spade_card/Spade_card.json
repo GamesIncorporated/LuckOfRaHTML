@@ -1,0 +1,48 @@
+{"frames": {
+
+"1Spade_card_normal.png":
+{
+	"frame": {"x":2,"y":2,"w":144,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":123},
+	"sourceSize": {"w":144,"h":123},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2Spade_card_over.png":
+{
+	"frame": {"x":2,"y":127,"w":144,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":123},
+	"sourceSize": {"w":144,"h":123},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3Spade_card_down.png":
+{
+	"frame": {"x":2,"y":252,"w":140,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":140,"h":119},
+	"sourceSize": {"w":144,"h":123},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"4Spade_card_disable.png":
+{
+	"frame": {"x":2,"y":373,"w":144,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":123},
+	"sourceSize": {"w":144,"h":123},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Spade_card_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":148,"h":498},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:02dd80ee9bb8662b44cf77145cfc514e:6d5d2f6dd50a80db806cc3c0febcb3f6:8113dd8418ac910723461fc124920c02$"
+}
+}

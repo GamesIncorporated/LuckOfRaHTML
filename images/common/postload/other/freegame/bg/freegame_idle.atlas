@@ -1,0 +1,202 @@
+
+freegame_idle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freegame_toruch_glow
+  rotate: false
+  xy: 2, 362
+  size: 239, 301
+  orig: 239, 301
+  offset: 0, 0
+  index: -1
+freespins_bg_coin_left_1
+  rotate: true
+  xy: 592, 411
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+freespins_bg_coin_left_1_glow
+  rotate: true
+  xy: 260, 139
+  size: 80, 170
+  orig: 80, 170
+  offset: 0, 0
+  index: -1
+freespins_bg_coin_left_2
+  rotate: false
+  xy: 2, 665
+  size: 419, 155
+  orig: 419, 155
+  offset: 0, 0
+  index: -1
+freespins_bg_coin_left_2_glow
+  rotate: false
+  xy: 2, 822
+  size: 500, 186
+  orig: 500, 186
+  offset: 0, 0
+  index: -1
+freespins_bg_coin_right
+  rotate: false
+  xy: 404, 570
+  size: 134, 70
+  orig: 134, 70
+  offset: 0, 0
+  index: -1
+freespins_bg_coin_right_glow
+  rotate: true
+  xy: 906, 688
+  size: 140, 74
+  orig: 140, 74
+  offset: 0, 0
+  index: -1
+freespins_bg_fire_1_vivid_light
+  rotate: true
+  xy: 273, 48
+  size: 89, 133
+  orig: 89, 133
+  offset: 0, 0
+  index: -1
+freespins_bg_fire_2
+  rotate: false
+  xy: 163, 139
+  size: 95, 221
+  orig: 95, 221
+  offset: 0, 0
+  index: -1
+freespins_bg_fire_3_overlay
+  rotate: false
+  xy: 163, 19
+  size: 108, 118
+  orig: 108, 118
+  offset: 0, 0
+  index: -1
+freespins_bg_fire_4
+  rotate: true
+  xy: 243, 401
+  size: 82, 167
+  orig: 82, 167
+  offset: 0, 0
+  index: -1
+freespins_bg_single_coin
+  rotate: false
+  xy: 243, 388
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+freespins_bg_torch_handle_left
+  rotate: true
+  xy: 820, 422
+  size: 46, 95
+  orig: 46, 95
+  offset: 0, 0
+  index: -1
+freespins_bg_torch_handle_left_shadow
+  rotate: true
+  xy: 715, 422
+  size: 46, 103
+  orig: 46, 103
+  offset: 0, 0
+  index: -1
+freespins_fire_00000
+  rotate: false
+  xy: 504, 830
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+freespins_fire_00001
+  rotate: false
+  xy: 2, 182
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+freespins_fire_00002
+  rotate: false
+  xy: 243, 485
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+freespins_fire_00003
+  rotate: false
+  xy: 665, 830
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+freespins_fire_00004
+  rotate: false
+  xy: 2, 2
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+freespins_fire_00005
+  rotate: false
+  xy: 826, 830
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+freespins_fire_00006
+  rotate: false
+  xy: 260, 221
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+freespins_fire_00007
+  rotate: false
+  xy: 423, 642
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+freespins_fire_00008
+  rotate: false
+  xy: 584, 650
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+freespins_fire_00009
+  rotate: false
+  xy: 745, 650
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+freespins_fire_00010
+  rotate: true
+  xy: 412, 409
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+freespins_fire_00011
+  rotate: false
+  xy: 421, 229
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+freespins_fire_00012
+  rotate: false
+  xy: 592, 470
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+freespins_fire_00013
+  rotate: false
+  xy: 753, 470
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1

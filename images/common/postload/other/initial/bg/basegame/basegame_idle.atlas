@@ -1,0 +1,181 @@
+
+basegame_idle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+basegame_bg_rays
+  rotate: false
+  xy: 2, 572
+  size: 572, 434
+  orig: 572, 434
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_left_front_leaf_1
+  rotate: false
+  xy: 867, 959
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_left_front_leaf_2
+  rotate: false
+  xy: 518, 153
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_left_front_leaf_3
+  rotate: true
+  xy: 310, 80
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_left_front_leaf_4
+  rotate: false
+  xy: 565, 154
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_left_front_leaf_5
+  rotate: false
+  xy: 606, 752
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_left_front_leaf_6
+  rotate: false
+  xy: 834, 819
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_left_front_leaf_7
+  rotate: false
+  xy: 518, 111
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_left_front_leaf_8
+  rotate: true
+  xy: 310, 50
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_left_front_leaf_9
+  rotate: true
+  xy: 372, 88
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_right_front_leaf_1
+  rotate: true
+  xy: 834, 867
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_right_front_leaf_2
+  rotate: false
+  xy: 260, 49
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_right_front_leaf_3
+  rotate: false
+  xy: 576, 725
+  size: 28, 71
+  orig: 28, 71
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_right_front_leaf_4
+  rotate: false
+  xy: 834, 931
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_right_front_leaf_5
+  rotate: false
+  xy: 576, 668
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_right_front_leaf_6
+  rotate: false
+  xy: 867, 914
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+basegame_bg_tree_right_front_leaf_7
+  rotate: false
+  xy: 920, 982
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+basegame_bg_water_01
+  rotate: false
+  xy: 2, 107
+  size: 256, 103
+  orig: 256, 103
+  offset: 0, 0
+  index: -1
+basegame_bg_water_06
+  rotate: false
+  xy: 2, 107
+  size: 256, 103
+  orig: 256, 103
+  offset: 0, 0
+  index: -1
+basegame_bg_water_02
+  rotate: false
+  xy: 576, 903
+  size: 256, 103
+  orig: 256, 103
+  offset: 0, 0
+  index: -1
+basegame_bg_water_03
+  rotate: false
+  xy: 2, 2
+  size: 256, 103
+  orig: 256, 103
+  offset: 0, 0
+  index: -1
+basegame_bg_water_04
+  rotate: false
+  xy: 260, 107
+  size: 256, 103
+  orig: 256, 103
+  offset: 0, 0
+  index: -1
+basegame_bg_water_05
+  rotate: false
+  xy: 576, 798
+  size: 256, 103
+  orig: 256, 103
+  offset: 0, 0
+  index: -1
+basegame_sand_0
+  rotate: false
+  xy: 2, 212
+  size: 640, 358
+  orig: 640, 358
+  offset: 0, 0
+  index: -1
+freegame_star_sparkle
+  rotate: false
+  xy: 260, 2
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
