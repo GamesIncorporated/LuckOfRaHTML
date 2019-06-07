@@ -1,0 +1,48 @@
+{"frames": {
+
+"Buy_in_disable.png":
+{
+	"frame": {"x":2,"y":2,"w":76,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":18,"w":76,"h":81},
+	"sourceSize": {"w":112,"h":117},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Buy_in_normal.png":
+{
+	"frame": {"x":81,"y":2,"w":76,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":18,"w":76,"h":81},
+	"sourceSize": {"w":112,"h":117},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Buy_in_over.png":
+{
+	"frame": {"x":2,"y":86,"w":112,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":117},
+	"sourceSize": {"w":112,"h":117},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Buy_in_selected.png":
+{
+	"frame": {"x":117,"y":86,"w":76,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":16,"w":76,"h":83},
+	"sourceSize": {"w":112,"h":117},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Bonus_buy_btn.png",
+	"format": "RGBA8888",
+	"size": {"w":195,"h":205},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4b150d16546fab2676ab3f40b0eacf90:76e7e1790cecfaee9a5d7183e156d389:646edac1c0306495594d83b76b09651c$"
+}
+}

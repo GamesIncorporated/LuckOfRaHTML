@@ -1,0 +1,48 @@
+{"frames": {
+
+"Cancel_disable.png":
+{
+	"frame": {"x":2,"y":2,"w":199,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":199,"h":55},
+	"sourceSize": {"w":199,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Cancel_down.png":
+{
+	"frame": {"x":2,"y":59,"w":189,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":189,"h":52},
+	"sourceSize": {"w":199,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Cancel_normal.png":
+{
+	"frame": {"x":2,"y":113,"w":199,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":199,"h":55},
+	"sourceSize": {"w":199,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Cancel_over.png":
+{
+	"frame": {"x":2,"y":170,"w":199,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":199,"h":55},
+	"sourceSize": {"w":199,"h":55},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Cancel_btn.png",
+	"format": "RGBA8888",
+	"size": {"w":203,"h":227},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:235f70c3316a52a6b336e4f1d0d9992d:de8f49c994551c6e933907cc67c08cfd:55aba972af8bfe3275156ab49551cc0b$"
+}
+}

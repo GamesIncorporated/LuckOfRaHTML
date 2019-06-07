@@ -1,0 +1,50 @@
+<font>
+	<info face="\\Ig-srv005\gaming_graphics\Plank Gaming\Luck of Ra - BG0003\1_Creative_Assets\File for Desktop\Translation\Bitmap_font-export" size="80" />
+	<common lineHeight="80" scaleW="137" scaleH="137" pages="1" />
+	<pages>
+		<page id="0" file="\\Ig-srv005\gaming_graphics\Plank Gaming\Luck of Ra - BG0003\1_Creative_Assets\File for Desktop\Translation\Bitmap_font-export.png" />
+	</pages>
+	<chars count="40">
+		<char id="48" x="83" y="48" width="16" height="23" xoffset="0" yoffset="57" xadvance="17" /><!-- 0 -->
+		<char id="49" x="117" y="72" width="11" height="23" xoffset="0" yoffset="57" xadvance="12" /><!-- 1 -->
+		<char id="50" x="82" y="80" width="17" height="23" xoffset="0" yoffset="57" xadvance="18" /><!-- 2 -->
+		<char id="51" x="100" y="53" width="16" height="23" xoffset="0" yoffset="57" xadvance="17" /><!-- 3 -->
+		<char id="52" x="63" y="0" width="18" height="23" xoffset="0" yoffset="57" xadvance="19" /><!-- 4 -->
+		<char id="53" x="100" y="107" width="16" height="23" xoffset="0" yoffset="57" xadvance="17" /><!-- 5 -->
+		<char id="54" x="117" y="48" width="16" height="23" xoffset="0" yoffset="57" xadvance="17" /><!-- 6 -->
+		<char id="55" x="117" y="0" width="16" height="23" xoffset="0" yoffset="57" xadvance="17" /><!-- 7 -->
+		<char id="56" x="117" y="24" width="16" height="23" xoffset="0" yoffset="57" xadvance="17" /><!-- 8 -->
+		<char id="57" x="82" y="104" width="17" height="23" xoffset="0" yoffset="57" xadvance="18" /><!-- 9 -->
+		<char id="47" x="32" y="24" width="9" height="23" xoffset="0" yoffset="57" xadvance="10" /><!-- / -->
+		<char id="92" x="127" y="96" width="9" height="23" xoffset="0" yoffset="57" xadvance="10" /><!-- \ -->
+		<char id="58" x="24" y="73" width="5" height="17" xoffset="0" yoffset="63" xadvance="6" /><!-- : -->
+		<char id="59" x="91" y="24" width="6" height="22" xoffset="0" yoffset="63" xadvance="7" /><!-- ; -->
+		<char id="46" x="7" y="127" width="5" height="4" xoffset="0" yoffset="76" xadvance="6" /><!-- . -->
+		<char id="44" x="0" y="127" width="6" height="9" xoffset="0" yoffset="76" xadvance="7" /><!-- , -->
+		<char id="36" x="100" y="0" width="16" height="28" xoffset="0" yoffset="55" xadvance="17" /><!-- $ -->
+		<char id="8364" x="63" y="96" width="18" height="23" xoffset="0" yoffset="57" xadvance="19" /><!-- € -->
+		<char id="163" x="53" y="32" width="18" height="23" xoffset="0" yoffset="57" xadvance="19" /><!-- £ -->
+		<char id="165" x="72" y="24" width="18" height="23" xoffset="0" yoffset="57" xadvance="19" /><!-- ¥ -->
+		<char id="8377" x="64" y="56" width="18" height="23" xoffset="0" yoffset="57" xadvance="19" /><!-- ₹ -->
+		<char id="1083" x="0" y="0" width="42" height="23" xoffset="0" yoffset="57" xadvance="43" /><!-- л -->
+		<char id="66" x="43" y="0" width="19" height="31" xoffset="0" yoffset="53" xadvance="20" /><!-- B -->
+		<char id="3647" x="22" y="91" width="21" height="23" xoffset="0" yoffset="57" xadvance="22" /><!-- ฿ -->
+		<char id="8372" x="100" y="29" width="16" height="23" xoffset="0" yoffset="57" xadvance="17" /><!-- ₴ -->
+		<char id="269" x="100" y="77" width="16" height="29" xoffset="0" yoffset="57" xadvance="17" /><!-- č -->
+		<char id="162" x="117" y="96" width="9" height="23" xoffset="0" yoffset="57" xadvance="10" /><!-- ¢ -->
+		<char id="322" x="44" y="72" width="19" height="23" xoffset="0" yoffset="57" xadvance="20" /><!-- ł -->
+		<char id="8378" x="0" y="73" width="23" height="17" xoffset="0" yoffset="63" xadvance="24" /><!-- ₺ -->
+		<char id="8362" x="0" y="48" width="30" height="24" xoffset="0" yoffset="66" xadvance="31" /><!-- ₪ -->
+		<char id="4314" x="44" y="96" width="18" height="23" xoffset="0" yoffset="57" xadvance="19" /><!-- ლ -->
+		<char id="8381" x="31" y="48" width="21" height="23" xoffset="0" yoffset="57" xadvance="22" /><!-- ₽ -->
+		<char id="8369" x="0" y="115" width="19" height="11" xoffset="0" yoffset="63" xadvance="20" /><!-- ₱ -->
+		<char id="8734" x="20" y="115" width="14" height="20" xoffset="0" yoffset="57" xadvance="15" /><!-- ∞ -->
+		<char id="8363" x="0" y="24" width="31" height="23" xoffset="0" yoffset="57" xadvance="32" /><!-- ₫ -->
+		<char id="8361" x="0" y="91" width="21" height="23" xoffset="0" yoffset="57" xadvance="22" /><!-- ₩ -->
+		<char id="82" x="82" y="0" width="17" height="23" xoffset="0" yoffset="63" xadvance="18" /><!-- R -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="160" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

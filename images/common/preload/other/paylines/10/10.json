@@ -89,14 +89,41 @@
 	"spriteSourceSize": {"x":0,"y":64,"w":1050,"h":370},
 	"sourceSize": {"w":1050,"h":529},
 	"pivot": {"x":0.5,"y":0.5}
+},
+"10_00011.png":
+{
+	"frame": {"x":5,"y":1001,"w":1050,"h":370},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":64,"w":1050,"h":370},
+	"sourceSize": {"w":1050,"h":529},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"10_00012.png":
+{
+	"frame": {"x":5,"y":1376,"w":1050,"h":370},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":64,"w":1050,"h":370},
+	"sourceSize": {"w":1050,"h":529},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"10_00013.png":
+{
+	"frame": {"x":5,"y":1751,"w":1050,"h":370},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":64,"w":1050,"h":370},
+	"sourceSize": {"w":1050,"h":529},
+	"pivot": {"x":0.5,"y":0.5}
 }},
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "10.png",
+	"image": "payline_10.png",
 	"format": "RGBA8888",
-	"size": {"w":2005,"h":1001},
+	"size": {"w":2005,"h":2126},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:1720b199bf04f9c7d146d1a0736486a8:40646add7de88a0203a91112e990e4cd:44c4f2b45750247a55514538d28c4f4d$"
+	"smartupdate": "$TexturePacker:SmartUpdate:e2522d17cdde0a094c8d81a32517c181:cde19932abfdfbe32a3dc4c916cee5c6:44c4f2b45750247a55514538d28c4f4d$"
 }
 }

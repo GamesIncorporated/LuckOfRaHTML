@@ -411,7 +411,7 @@
   "lbl_ok": {
     "text": "OK"
   },
-  "lbl_freeplay_sentence": { 
+  "lbl_freeplay_sentence": {
     "text": "Tiene %freePlayCounter% JUEGOS GRATIS de apuesta %freePlayStake%"
   },
   "lbl_slot_machine_sentence": {
@@ -429,7 +429,7 @@
   "lbl_free_play_completed": {
     "text": "Juegos gratis completos"
   },
-  "lbl_free_plays_left": { 
+  "lbl_free_plays_left": {
     "text": "Le quedan %freePlayCounter% JUEGOS GRATIS"
   },
   "lbl_free_play_resume": {
@@ -439,90 +439,91 @@
     "text": "BACK TO GAME"
   },
 
-  "lbl_BetSettings":{
-    "text":"Bet Settings"
+  "lbl_BetSettings": {
+    "text": "Bet Settings"
   },
-  "lbl_NumberOfSpins":{
-    "text":"Number Of Spins"
+  "lbl_NumberOfSpins": {
+    "text": "Number Of Spins"
   },
-  "lbl_NumberOfSpinsOff":{
-    "text":"OFF"
+  "lbl_NumberOfSpinsOff": {
+    "text": "OFF"
   },
-  "lbl_NoLimits":{
-    "text":"SIN LÍMITES"
+  "lbl_NoLimits": {
+    "text": "SIN LÍMITES"
   },
-  "lbl_RealityCheckHeading" : {
-    "text":"LLAMADO A LA REALIDAD"
+  "lbl_RealityCheckHeading": {
+    "text": "LLAMADO A LA REALIDAD"
   },
-  "lbl_RealityCheckText" : {
-    "text":"Usted solicitó un Llamado a la realidad cada %n % minutos de juego. Su sesión de juego ha alcanzado %n% minutos."
+  "lbl_RealityCheckText": {
+    "text": "Usted solicitó un Llamado a la realidad cada \n% minutos de juego. Su sesión de juego ha \nalcanzado % minutos."
   },
-  "lbl_NetworkErrorHeading" : {
-    "text":"CONEXIÓN PERDIDA"
+  "lbl_NetworkErrorHeading": {
+    "text": "CONEXIÓN PERDIDA"
   },
-  "lbl_NetworkErrorMsg" : {
-    "text":"Has perdido la conexión al servidor del juego. \n Por favor, vuelva a iniciar el juego e inténtelo otra vez."
+  "lbl_NetworkErrorMsg": {
+    "text": "Has perdido la conexión al servidor del juego. \n Por favor, vuelva a iniciar el juego e inténtelo otra vez."
   },
-  "lbl_ConnectionLossErrorMsg" : {
-    "text":"La seguridad es importante para nosotros. Como ha estado inactivo durante un tiempo, lo hemos desconectado automáticamente de su sesión de juego."
+  "lbl_ConnectionLossErrorMsg": {
+    "text": "La seguridad es importante para nosotros. Como ha estado inactivo durante un tiempo, lo hemos desconectado automáticamente de su sesión de juego."
   },
-  "lbl_ConnectionLossHeading" : {
-    "text":"TIEMPO LÍMITE DE SEGURIDAD"
-  },
-
-  "lbl_InSufficientFundErrorHeading" : {
-    "text":"FONDOS INSUFICIENTES"
-  },
-  "lbl_InSufficientFundErrorMsg" : {
-    "text":"Fondos insuficientes para completar la vuelta."
+  "lbl_ConnectionLossHeading": {
+    "text": "TIEMPO LÍMITE DE SEGURIDAD"
   },
 
-  "lbl_ShowBrokenPopUpHeading" : {
-    "text":"REANUDANDO UN \n JUEGO ANTERIOR"
+  "lbl_InSufficientFundErrorHeading": {
+    "text": "FONDOS INSUFICIENTES"
   },
-  "lbl_ShowBrokenPopUpText" :{
-    "text":"Reconocemos que un juego anterior \n no se completó.  Ahora reanudaremos ese juego \n para que pueda continuarlo."
+  "lbl_InSufficientFundErrorMsg": {
+    "text": "Fondos insuficientes para completar la vuelta."
   },
-  "lbl_GameOnIEBrowserErrorMsg":{
-    "text":"Hemos detectado que está jugando en el navegador IE11, que puede causar algunos problemas de sonido en el juego. Le recomendamos que juegue este juego en los principales navegadores para disfrutar de una mejor experiencia. "
+
+  "lbl_ShowBrokenPopUpHeading": {
+    "text": "REANUDANDO UN \n JUEGO ANTERIOR"
   },
-  "lbl_GameOnUCBrowserErrorMsg":{
-    "text":"We have detected that you are playing game on UC browser \n which may cause some sound issues in the game, we recommend you to play \n this game on mainstream browsers for best experience."
+  "lbl_ShowBrokenPopUpText": {
+    "text": "Reconocemos que un juego anterior \n no se completó.  Ahora reanudaremos ese juego \n para que pueda continuarlo."
   },
-  "lbl_GameOnUnSupportedDevicesErrorMsg":{
-    "text" : "Hemos detectado que está cargando un juego en iPad2, que no es un dispositivo compatible para ejecutar este juego. Por favor, cambie a un dispositivo de versión superior para disfrutar de una mejor experiencia de este juego."
+  "lbl_GameOnIEBrowserErrorMsg": {
+    "text": "Hemos detectado que está jugando en el navegador IE11, que puede causar algunos problemas de sonido en el juego. Le recomendamos que juegue este juego en los principales navegadores para disfrutar de una mejor experiencia. "
   },
-  "lbl_GameOnIEBrowserHeading":{
-    "text" : "ALERT"
+  "lbl_GameOnUCBrowserErrorMsg": {
+    "text": "We have detected that you are playing game on UC browser \n which may cause some sound issues in the game, we recommend you to play \n this game on mainstream browsers for best experience."
   },
-  "lbl_GameOnUCBrowserHeading":{
-    "text" : "ALERT"
+  "lbl_GameOnUnSupportedDevicesErrorMsg": {
+    "text": "Hemos detectado que está cargando un juego en iPad2, que no es un dispositivo compatible para ejecutar este juego. Por favor, cambie a un dispositivo de versión superior para disfrutar de una mejor experiencia de este juego."
   },
- "lbl_GameOnUnSupportedDevicesHeading":{
-  "text" : "ALERT"
+  "lbl_GameOnIEBrowserHeading": {
+    "text": "ALERT"
+  },
+  "lbl_GameOnUCBrowserHeading": {
+    "text": "ALERT"
+  },
+  "lbl_GameOnUnSupportedDevicesHeading": {
+    "text": "ALERT"
   },
   "lbl_free_spins": {
     "text": "VUELTAS GRATIS"
-  }, "lbl_tooltip_labelMaxBet" :{
+  },
+  "lbl_tooltip_labelMaxBet": {
     "text": "APUESTA MÁXIMA"
-   },
-   "lbl_tooltip_labelSpin" :{
+  },
+  "lbl_tooltip_labelSpin": {
     "text": "Girar"
-   },
-   "lbl_tooltip_labelStop" :{
-    "text": "Stop"
-   },
-  
-   "lbl_tooltip_labelBetSettings":{
-    "text":"Configuración de apuesta"
+  },
+  "lbl_tooltip_labelStop": {
+    "text": "Stop Autoplays"
+  },
+
+  "lbl_tooltip_labelBetSettings": {
+    "text": "Configuración de apuesta"
   },
   "lbl_auto_play": {
     "text": "partida auto"
   },
-"lbl_tooltip_auto_play_off": {
-  "text": "Dejar Juego automático"
-},
-  "lbl_tooltip_labelGameSettings":{
+  "lbl_tooltip_auto_play_off": {
+    "text": "Dejar Juego automático"
+  },
+  "lbl_tooltip_labelGameSettings": {
     "text": "Configuración del juego"
   },
   "lbl_tooltip_labelpaytable": {
@@ -543,7 +544,7 @@
   "lbl_tooltip_labelHome": {
     "text": "Início"
   },
-  "lbl_tooltip_AudioOnAndOff":{
-    "text":"Audio Activado/Desactivado"
+  "lbl_tooltip_AudioOnAndOff": {
+    "text": "Audio Activado/Desactivado"
   }
 }

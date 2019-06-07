@@ -1,102 +1,257 @@
-{"frames": {
+{
+	"frames": {
 
-"S1_royal_10_1x1.png":
-{
-	"frame": {"x":2,"y":2,"w":129,"h":126},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":40,"y":25,"w":129,"h":126},
-	"sourceSize": {"w":210,"h":176},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"S2_royal_j_1x1.png":
-{
-	"frame": {"x":133,"y":2,"w":102,"h":128},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":54,"y":24,"w":102,"h":128},
-	"sourceSize": {"w":210,"h":176},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"S3_royal_q_1x1.png":
-{
-	"frame": {"x":237,"y":2,"w":110,"h":113},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":50,"y":32,"w":110,"h":113},
-	"sourceSize": {"w":210,"h":176},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"S4_royal_k_1x1.png":
-{
-	"frame": {"x":2,"y":132,"w":102,"h":124},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":55,"y":26,"w":102,"h":124},
-	"sourceSize": {"w":210,"h":176},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"S5_royal_a_1x1.png":
-{
-	"frame": {"x":106,"y":132,"w":109,"h":139},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":50,"y":13,"w":109,"h":139},
-	"sourceSize": {"w":210,"h":176},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"S6_anubis_1x1.png":
-{
-	"frame": {"x":2,"y":273,"w":210,"h":176},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
-	"sourceSize": {"w":210,"h":176},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"S7_Pharaoh_1x1.png":
-{
-	"frame": {"x":214,"y":273,"w":210,"h":176},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
-	"sourceSize": {"w":210,"h":176},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"S8_isis_1x1.png":
-{
-	"frame": {"x":2,"y":451,"w":210,"h":176},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
-	"sourceSize": {"w":210,"h":176},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"Scatter.png":
-{
-	"frame": {"x":214,"y":451,"w":210,"h":176},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
-	"sourceSize": {"w":210,"h":176},
-	"pivot": {"x":0.5,"y":0.5}
-},
-"Wild.png":
-{
-	"frame": {"x":2,"y":629,"w":208,"h":176},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":1,"y":0,"w":208,"h":176},
-	"sourceSize": {"w":210,"h":176},
-	"pivot": {"x":0.5,"y":0.5}
-}},
-"meta": {
-	"app": "http://www.codeandweb.com/texturepacker",
-	"version": "1.0",
-	"image": "Symbols.png",
-	"format": "RGBA8888",
-	"size": {"w":426,"h":807},
-	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:16fe8a69042b720cd4bcd0fd87ee15bd:e82fc3c9598b53471c5223b5657ceb88:656fb3f1d046e1cf0ee3a5b7d7d1991b$"
-}
+		"S1_royal_10_1x1.png": {
+			"frame": {
+				"x": 2,
+				"y": 2,
+				"w": 129,
+				"h": 126
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 40,
+				"y": 25,
+				"w": 129,
+				"h": 126
+			},
+			"sourceSize": {
+				"w": 210,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"S2_royal_j_1x1.png": {
+			"frame": {
+				"x": 133,
+				"y": 2,
+				"w": 102,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 54,
+				"y": 24,
+				"w": 102,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 210,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"S3_royal_q_1x1.png": {
+			"frame": {
+				"x": 237,
+				"y": 2,
+				"w": 110,
+				"h": 113
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 50,
+				"y": 32,
+				"w": 110,
+				"h": 113
+			},
+			"sourceSize": {
+				"w": 210,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"S4_royal_k_1x1.png": {
+			"frame": {
+				"x": 2,
+				"y": 132,
+				"w": 102,
+				"h": 124
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 55,
+				"y": 26,
+				"w": 102,
+				"h": 124
+			},
+			"sourceSize": {
+				"w": 210,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"S5_royal_a_1x1.png": {
+			"frame": {
+				"x": 106,
+				"y": 132,
+				"w": 109,
+				"h": 139
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 50,
+				"y": 13,
+				"w": 109,
+				"h": 139
+			},
+			"sourceSize": {
+				"w": 210,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"S6_anubis_1x1.png": {
+			"frame": {
+				"x": 2,
+				"y": 273,
+				"w": 210,
+				"h": 176
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 210,
+				"h": 176
+			},
+			"sourceSize": {
+				"w": 210,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"S7_Pharaoh_1x1.png": {
+			"frame": {
+				"x": 214,
+				"y": 273,
+				"w": 210,
+				"h": 176
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 210,
+				"h": 176
+			},
+			"sourceSize": {
+				"w": 210,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"S8_isis_1x1.png": {
+			"frame": {
+				"x": 2,
+				"y": 451,
+				"w": 210,
+				"h": 176
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 210,
+				"h": 176
+			},
+			"sourceSize": {
+				"w": 210,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"Scatter.png": {
+			"frame": {
+				"x": 214,
+				"y": 451,
+				"w": 210,
+				"h": 176
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 210,
+				"h": 176
+			},
+			"sourceSize": {
+				"w": 210,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"Wild.png": {
+			"frame": {
+				"x": 2,
+				"y": 629,
+				"w": 208,
+				"h": 175
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 1,
+				"w": 208,
+				"h": 175
+			},
+			"sourceSize": {
+				"w": 210,
+				"h": 176
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "Symbols_atlas.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 426,
+			"h": 806
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:ea2aa3a6ca1c382fece3cd2f20a54e67:cfad49b7e5e6ba8c4e75a36e5cd4dc19:656fb3f1d046e1cf0ee3a5b7d7d1991b$"
+	}
 }

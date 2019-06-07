@@ -2,232 +2,243 @@
   "resources": [
     "res\\Audio\\preLoad.ogg",
     "res\\Audio\\preLoad.m4a",
-    "res\\Audio\\preLoad.mp3"
+    "res\\Audio\\preLoad.mp3",
+    "res\\Audio\\preLoad.ac3"
   ],
   "spritemap": {
-    "anticipation": {
+    "Alarm": {
       "start": 0,
-      "end": 2,
+      "end": 2.8560090702947845,
+      "loop": false
+    },
+    "anticipation": {
+      "start": 4,
+      "end": 6,
       "loop": false
     },
     "basegame_loop": {
-      "start": 3,
-      "end": 28,
+      "start": 7,
+      "end": 32,
       "loop": true
     },
     "big_win_loop": {
-      "start": 29,
-      "end": 33.00002267573696,
+      "start": 33,
+      "end": 37.00002267573696,
       "loop": false
     },
     "card_reveal": {
-      "start": 35,
-      "end": 36.27383219954648,
+      "start": 39,
+      "end": 40.27383219954648,
       "loop": false
     },
     "common_win_end": {
-      "start": 38,
-      "end": 42,
+      "start": 42,
+      "end": 46,
       "loop": false
     },
     "five_of_a_kind": {
-      "start": 43,
-      "end": 45.53097505668934,
+      "start": 47,
+      "end": 49.53097505668934,
       "loop": false
     },
     "Freespins_Loop": {
-      "start": 47,
-      "end": 90.84650793650793,
+      "start": 51,
+      "end": 94.84650793650793,
       "loop": true
     },
     "freespin_counter_move_down": {
-      "start": 92,
-      "end": 93.49478458049887,
+      "start": 96,
+      "end": 97.49478458049887,
       "loop": false
     },
     "Free_Spins_intro": {
-      "start": 95,
-      "end": 96.67183673469388,
+      "start": 99,
+      "end": 100.67183673469388,
       "loop": false
     },
     "fs_counter_update": {
-      "start": 98,
-      "end": 98.82281179138322,
+      "start": 102,
+      "end": 102.82281179138322,
       "loop": false
     },
     "gamble_loop": {
-      "start": 100,
-      "end": 110.3225850340136,
+      "start": 104,
+      "end": 114.3225850340136,
       "loop": true
     },
     "gamble_nextlevel": {
-      "start": 112,
-      "end": 114.14204081632653,
+      "start": 116,
+      "end": 118.14204081632653,
       "loop": false
     },
     "generic_buttons_click": {
-      "start": 116,
-      "end": 116.1340589569161,
+      "start": 120,
+      "end": 120.1340589569161,
       "loop": false
     },
     "line_win": {
-      "start": 118,
-      "end": 119.35256235827664,
+      "start": 122,
+      "end": 123.35256235827664,
       "loop": false
     },
     "mega_big_win_loop": {
-      "start": 121,
-      "end": 125.00002267573696,
+      "start": 125,
+      "end": 129.00002267573697,
       "loop": false
     },
     "mega_landing": {
-      "start": 127,
-      "end": 128.05650793650793,
+      "start": 131,
+      "end": 132.05650793650793,
       "loop": false
     },
     "Mode_closing": {
-      "start": 130,
-      "end": 130.77870748299318,
+      "start": 134,
+      "end": 134.77870748299318,
       "loop": false
     },
     "Mode_opening": {
-      "start": 132,
-      "end": 132.84172335600908,
+      "start": 136,
+      "end": 136.84172335600908,
       "loop": false
     },
     "Mode_selection": {
-      "start": 134,
-      "end": 134.64430839002267,
+      "start": 138,
+      "end": 138.64430839002267,
       "loop": false
     },
     "mult_lost": {
-      "start": 136,
-      "end": 137.23356009070295,
+      "start": 140,
+      "end": 141.23356009070295,
       "loop": false
     },
     "mult_won": {
-      "start": 139,
-      "end": 140.44578231292516,
+      "start": 143,
+      "end": 144.44578231292516,
       "loop": false
     },
     "Petals_transition": {
-      "start": 142,
-      "end": 145.57385487528344,
+      "start": 146,
+      "end": 149.57385487528344,
       "loop": false
     },
     "reel_intro": {
-      "start": 147,
-      "end": 149.27555555555554,
+      "start": 151,
+      "end": 153.27555555555554,
       "loop": false
     },
     "reel_landing": {
-      "start": 151,
-      "end": 151.77786848072563,
+      "start": 155,
+      "end": 155.77786848072563,
       "loop": false
     },
     "reel_spinning": {
-      "start": 153,
-      "end": 157.50467120181406,
+      "start": 157,
+      "end": 161.50467120181406,
       "loop": false
     },
     "reel_stopping": {
-      "start": 159,
-      "end": 159.97378684807256,
+      "start": 163,
+      "end": 163.97378684807256,
       "loop": false
     },
     "reel_synchronize": {
-      "start": 161,
-      "end": 161.87945578231293,
+      "start": 165,
+      "end": 165.94040816326532,
+      "loop": false
+    },
+    "reel_synchronize_3sec": {
+      "start": 167,
+      "end": 170.0080498866213,
       "loop": false
     },
     "retriggered_spins_added": {
-      "start": 163,
-      "end": 164.4918820861678,
+      "start": 172,
+      "end": 173.4918820861678,
       "loop": false
     },
     "scatter_triggering": {
-      "start": 166,
-      "end": 167.01006802721088,
+      "start": 175,
+      "end": 176.01006802721088,
       "loop": false
     },
     "spaghetti_toggle": {
-      "start": 169,
-      "end": 170.30321995464854,
+      "start": 178,
+      "end": 179.30321995464854,
       "loop": false
     },
     "special_symbol_appearance_scroll_V3": {
-      "start": 172,
-      "end": 174.46131519274377,
+      "start": 181,
+      "end": 183.46131519274377,
       "loop": false
     },
     "Spin_button": {
-      "start": 176,
-      "end": 177.17260770975057,
+      "start": 185,
+      "end": 186.17260770975057,
       "loop": false
     },
     "Spin_stop": {
-      "start": 179,
-      "end": 179.7894784580499,
+      "start": 188,
+      "end": 188.7894784580499,
       "loop": false
     },
     "Standard_Landing": {
-      "start": 181,
-      "end": 181.8301133786848,
+      "start": 190,
+      "end": 190.8301133786848,
       "loop": false
     },
     "suit_mouseover": {
-      "start": 183,
-      "end": 183.8475283446712,
+      "start": 192,
+      "end": 192.8475283446712,
       "loop": false
     },
     "suit_select": {
-      "start": 185,
-      "end": 185.56308390022676,
+      "start": 194,
+      "end": 194.56308390022676,
       "loop": false
     },
     "super_big_win_loop": {
-      "start": 187,
-      "end": 191.00002267573697,
+      "start": 196,
+      "end": 200.00002267573697,
       "loop": false
     },
     "symbols_locked_v2": {
-      "start": 193,
-      "end": 193.89977324263037,
+      "start": 202,
+      "end": 202.89977324263037,
       "loop": false
     },
     "Symbol_selection": {
-      "start": 195,
-      "end": 196.42802721088435,
+      "start": 204,
+      "end": 205.42802721088435,
       "loop": false
     },
     "Transition_1": {
-      "start": 198,
-      "end": 199.2103401360544,
+      "start": 207,
+      "end": 208.2103401360544,
       "loop": false
     },
     "Transition_2": {
-      "start": 201,
-      "end": 203.75156462585034,
+      "start": 210,
+      "end": 212.75156462585034,
       "loop": false
     },
     "ultra_big_win_loop": {
-      "start": 205,
-      "end": 209,
+      "start": 214,
+      "end": 218,
       "loop": false
     },
     "wintickup_center": {
-      "start": 210,
-      "end": 212.00002267573697,
+      "start": 219,
+      "end": 221.00002267573697,
       "loop": false
     },
     "wintickup_moving": {
-      "start": 214,
-      "end": 215.27707482993196,
+      "start": 223,
+      "end": 224.27707482993196,
       "loop": false
     },
     "win_fade": {
-      "start": 217,
-      "end": 218.0507029478458,
+      "start": 226,
+      "end": 227.0507029478458,
       "loop": false
     }
   }

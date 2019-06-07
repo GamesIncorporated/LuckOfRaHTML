@@ -1,0 +1,101 @@
+{"frames": {
+"Anubis_image1.png":
+{
+	"frame": {"x":0,"y":0,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Anubis_image2.png":
+{
+	"frame": {"x":210,"y":0,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Anubis_image3.png":
+{
+	"frame": {"x":420,"y":0,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Anubis_image4.png":
+{
+	"frame": {"x":0,"y":176,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Anubis_image5.png":
+{
+	"frame": {"x":210,"y":176,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Anubis_image6.png":
+{
+	"frame": {"x":420,"y":176,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Anubis_image7.png":
+{
+	"frame": {"x":0,"y":352,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Anubis_image8.png":
+{
+	"frame": {"x":210,"y":352,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Anubis_image9.png":
+{
+	"frame": {"x":420,"y":352,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Anubis_fullFrame.png":
+{
+	"frame": {"x":0,"y":0,"w":630,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":630,"h":528},
+	"sourceSize": {"w":630,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "3X3AnubisBlur.png",
+	"format": "RGBA8888",
+	"size": {"w":630,"h":528},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0a0d89a583e9c67a735b8e9bc22e9993:120624369c5998c6c842c6181c687365:681eebe33d79a50e4b607f7c089c5c32$"
+}
+}

@@ -1,0 +1,93 @@
+{"frames": {
+
+"1Continue_Normal_en.png":
+{
+	"frame": {"x":2,"y":2,"w":302,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":302,"h":119},
+	"sourceSize": {"w":302,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2Continue_Over_en.png":
+{
+	"frame": {"x":2,"y":123,"w":302,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":302,"h":119},
+	"sourceSize": {"w":302,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3Continue_Pressed_en.png":
+{
+	"frame": {"x":2,"y":244,"w":271,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":5,"w":271,"h":111},
+	"sourceSize": {"w":302,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"4Continue_Disable_en.png":
+{
+	"frame": {"x":2,"y":357,"w":302,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":302,"h":120},
+	"sourceSize": {"w":302,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Checkbox_Normal.png":
+{
+	"frame": {"x":306,"y":357,"w":51,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":50},
+	"sourceSize": {"w":51,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Checkbox_Over.png":
+{
+	"frame": {"x":359,"y":357,"w":51,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":50},
+	"sourceSize": {"w":51,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Checkbox_Press.png":
+{
+	"frame": {"x":412,"y":357,"w":51,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":50},
+	"sourceSize": {"w":51,"h":50},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pagination_1.png":
+{
+	"frame": {"x":2,"y":479,"w":27,"h":27},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":13,"w":27,"h":27},
+	"sourceSize": {"w":47,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pagination_2.png":
+{
+	"frame": {"x":31,"y":479,"w":47,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":48},
+	"sourceSize": {"w":47,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Intro_Assets_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":465,"h":529},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:650f2177d6cb67c1995c201f1a333c09:bdff925eb1286ec5b8ad8f282622f709:770dbc25aaeaf5f81536b8e9879a4ca0$"
+}
+}

@@ -411,7 +411,7 @@
   "lbl_ok": {
     "text": "OK"
   },
-  "lbl_freeplay_sentence": {  
+  "lbl_freeplay_sentence": {
     "text": "Du hast %freePlayCounter% FREISPIELE zum %freePlayStake% Einsatz"
   },
   "lbl_slot_machine_sentence": {
@@ -429,7 +429,7 @@
   "lbl_free_play_completed": {
     "text": "Freispiele beendet"
   },
-  "lbl_free_plays_left": { 
+  "lbl_free_plays_left": {
     "text": "Noch %freePlayCounter% FREISPIELE"
   },
   "lbl_free_play_resume": {
@@ -438,91 +438,91 @@
   "lbl_back_to_game": {
     "text": "BACK TO GAME"
   },
-  "lbl_BetSettings":{
-    "text":"Bet Settings"
+  "lbl_BetSettings": {
+    "text": "Bet Settings"
   },
-  "lbl_NumberOfSpins":{
-    "text":"Number Of Spins"
+  "lbl_NumberOfSpins": {
+    "text": "Number Of Spins"
   },
-  "lbl_NumberOfSpinsOff":{
-    "text":"OFF"
+  "lbl_NumberOfSpinsOff": {
+    "text": "OFF"
   },
-  "lbl_NoLimits":{
-    "text":"KEINE GRENZEN"
+  "lbl_NoLimits": {
+    "text": "KEINE GRENZEN"
   },
-  "lbl_RealityCheckHeading" : {
-    "text":"REALITY-CHECK"
+  "lbl_RealityCheckHeading": {
+    "text": "REALITY-CHECK"
   },
-  "lbl_RealityCheckText" : {
-    "text":"Du hast eine Realitätsprüfung alle %n% Minuten des Spiels gewünscht. Du hast jetzt %n% erreicht."
+  "lbl_RealityCheckText": {
+    "text": "Du hast eine Realitätsprüfung alle % Minuten \n des Spiels gewünscht. Du hast jetzt % erreicht."
   },
-  "lbl_NetworkErrorHeading" : {
-    "text":"VERBINDUNGSVERLUST"
+  "lbl_NetworkErrorHeading": {
+    "text": "VERBINDUNGSVERLUST"
   },
-  "lbl_NetworkErrorMsg" : {
-    "text":"Die Verbindung zum Spielserver wurde getrennt. \n Bitte starte das Spiel neu und versuche es erneut."
+  "lbl_NetworkErrorMsg": {
+    "text": "Die Verbindung zum Spielserver wurde getrennt. \n Bitte starte das Spiel neu und versuche es erneut."
   },
-  "lbl_ConnectionLossErrorMsg" : {
-    "text":"Sicherheit ist für uns wichtig. Da Du eine Weile inaktiv warst, haben wird Dich automatisch aus dem Spiel ausgeloggt."
+  "lbl_ConnectionLossErrorMsg": {
+    "text": "Sicherheit ist für uns wichtig. Da Du eine Weile inaktiv warst, haben wird Dich automatisch aus dem Spiel ausgeloggt."
   },
-  "lbl_ConnectionLossHeading" : {
-    "text":"INAKTIVITÄTS-TIMEOUT"
-  },
-
-  "lbl_InSufficientFundErrorHeading" : {
-    "text":"UNZUREICHENDES GUTHABEN"
-  },
-  "lbl_InSufficientFundErrorMsg" : {
-    "text":"Nicht genügend Mittel, um Spin durchzuführen."
+  "lbl_ConnectionLossHeading": {
+    "text": "INAKTIVITÄTS-TIMEOUT"
   },
 
-  "lbl_ShowBrokenPopUpHeading" : {
-    "text":"VORHERIGES SPIEL FORTFÜHREN"
+  "lbl_InSufficientFundErrorHeading": {
+    "text": "UNZUREICHENDES GUTHABEN"
   },
-  "lbl_ShowBrokenPopUpText" :{
-    "text":"Wir haben erkannt, dass ein vorheriges Spiel nicht \n beendet wurde. Wir werden das Spiel jetzt starten, \n damit du es fortsetzen kannst."
+  "lbl_InSufficientFundErrorMsg": {
+    "text": "Nicht genügend Mittel, um Spin durchzuführen."
   },
-  "lbl_GameOnIEBrowserErrorMsg":{
-    "text":"Wir haben festgestellt, dass du das Spiel im Browser IE11 spielst, was Probleme beim Spiel verursachen kann. Für ein besseres Spielerlebnis empfehlen wir, das Spiel auf gängigen Browsern zu spielen."
+
+  "lbl_ShowBrokenPopUpHeading": {
+    "text": "VORHERIGES SPIEL FORTFÜHREN"
   },
-  "lbl_GameOnUCBrowserErrorMsg":{
-    "text":"We have detected that you are playing game on UC browser \n which may cause some sound issues in the game, we recommend you to play \n this game on mainstream browsers for best experience."
+  "lbl_ShowBrokenPopUpText": {
+    "text": "Wir haben erkannt, dass ein vorheriges Spiel nicht \n beendet wurde. Wir werden das Spiel jetzt starten, \n damit du es fortsetzen kannst."
   },
-  "lbl_GameOnUnSupportedDevicesErrorMsg":{
-    "text" : "Wir haben festgestellt, dass Du das Spiel auf dem iPad2 lädst. Dieses Gerät ist mit dem Spiel nicht kompatibel. Für ein besseres Spielerlebnis wechsle bitte zu einem Gerät neuerer Version."
+  "lbl_GameOnIEBrowserErrorMsg": {
+    "text": "Wir haben festgestellt, dass du das Spiel im Browser IE11 spielst, was Probleme beim Spiel verursachen kann. Für ein besseres Spielerlebnis empfehlen wir, das Spiel auf gängigen Browsern zu spielen."
   },
-  "lbl_GameOnIEBrowserHeading":{
-    "text" : "ALERT"
+  "lbl_GameOnUCBrowserErrorMsg": {
+    "text": "We have detected that you are playing game on UC browser \n which may cause some sound issues in the game, we recommend you to play \n this game on mainstream browsers for best experience."
   },
-  "lbl_GameOnUCBrowserHeading":{
-    "text" : "ALERT"
+  "lbl_GameOnUnSupportedDevicesErrorMsg": {
+    "text": "Wir haben festgestellt, dass Du das Spiel auf dem iPad2 lädst. Dieses Gerät ist mit dem Spiel nicht kompatibel. Für ein besseres Spielerlebnis wechsle bitte zu einem Gerät neuerer Version."
   },
- "lbl_GameOnUnSupportedDevicesHeading":{
-  "text" : "ALERT"
+  "lbl_GameOnIEBrowserHeading": {
+    "text": "ALERT"
+  },
+  "lbl_GameOnUCBrowserHeading": {
+    "text": "ALERT"
+  },
+  "lbl_GameOnUnSupportedDevicesHeading": {
+    "text": "ALERT"
   },
   "lbl_free_spins": {
     "text": "FREISPIELE"
   },
-  "lbl_tooltip_labelMaxBet" :{
+  "lbl_tooltip_labelMaxBet": {
     "text": "MAXIMALER EINSATZ"
-   },
-   "lbl_tooltip_labelSpin" :{
+  },
+  "lbl_tooltip_labelSpin": {
     "text": "DREHEN"
-   },
-   "lbl_tooltip_labelStop" :{
-    "text": "Stop"
-   },
-  
-   "lbl_tooltip_labelBetSettings":{
-    "text":"Einsatz-Einstellungen"
+  },
+  "lbl_tooltip_labelStop": {
+    "text": "Stop Autoplays"
+  },
+
+  "lbl_tooltip_labelBetSettings": {
+    "text": "Einsatz-Einstellungen"
   },
   "lbl_auto_play": {
     "text": "AUTOPLAY"
   },
-"lbl_tooltip_auto_play_off": {
-  "text": "Stoppen Sie Autoplay"
-},
-  "lbl_tooltip_labelGameSettings":{
+  "lbl_tooltip_auto_play_off": {
+    "text": "Stoppen Sie Autoplay"
+  },
+  "lbl_tooltip_labelGameSettings": {
     "text": "Spieleinstellungen"
   },
   "lbl_tooltip_labelpaytable": {
@@ -543,7 +543,7 @@
   "lbl_tooltip_labelHome": {
     "text": "Home"
   },
-  "lbl_tooltip_AudioOnAndOff":{
-    "text":"Audio ein/aus"
+  "lbl_tooltip_AudioOnAndOff": {
+    "text": "Audio ein/aus"
   }
 }

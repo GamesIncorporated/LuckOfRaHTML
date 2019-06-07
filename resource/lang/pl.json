@@ -411,7 +411,7 @@
   "lbl_ok": {
     "text": "OK"
   },
-  "lbl_freeplay_sentence": { 
+  "lbl_freeplay_sentence": {
     "text": "Masz %freePlayCounter% BEZPŁATNE GRY przy stawce %freePlayStake%"
   },
   "lbl_slot_machine_sentence": {
@@ -439,91 +439,91 @@
     "text": "BACK TO GAME"
   },
 
-  "lbl_BetSettings":{
-    "text":"Bet Settings"
+  "lbl_BetSettings": {
+    "text": "Bet Settings"
   },
-  "lbl_NumberOfSpins":{
-    "text":"Number Of Spins"
+  "lbl_NumberOfSpins": {
+    "text": "Number Of Spins"
   },
-  "lbl_NumberOfSpinsOff":{
-    "text":"OFF"
+  "lbl_NumberOfSpinsOff": {
+    "text": "OFF"
   },
-  "lbl_NoLimits":{
-    "text":"BEZ LIMITÓW"
+  "lbl_NoLimits": {
+    "text": "BEZ LIMITÓW"
   },
-  "lbl_RealityCheckHeading" : {
-    "text":"SPRAWDZENIE AUTENTYCZNOŚCI"
+  "lbl_RealityCheckHeading": {
+    "text": "SPRAWDZENIE AUTENTYCZNOŚCI"
   },
-  "lbl_RealityCheckText" : {
-    "text":"Poprosiłeś(aś) o kontrolę czasu spędzonego w grze co %n % minut(y) gry. Twoja sesja %n% trwa już minut:"
+  "lbl_RealityCheckText": {
+    "text": "Poprosiłeś(aś) o kontrolę czasu spędzonego w grze \nco % minut(y) gry. Twoja sesja % trwa już minut:"
   },
-  "lbl_NetworkErrorHeading" : {
-    "text":"ZERWANE POŁĄCZENIE"
+  "lbl_NetworkErrorHeading": {
+    "text": "ZERWANE POŁĄCZENIE"
   },
-  "lbl_NetworkErrorMsg" : {
-    "text":"Straciłeś połączenie z serwerem gry. \n Proszę wznowić grę i spróbować ponownie."
+  "lbl_NetworkErrorMsg": {
+    "text": "Straciłeś połączenie z serwerem gry. \n Proszę wznowić grę i spróbować ponownie."
   },
-  "lbl_ConnectionLossErrorMsg" : {
-    "text":"Bezpieczeństwo jest dla nas ważne. Byłeś nieaktywny przez jakiś czas, dlatego zostałeś automatycznie wylogowany ze swojej sesji."
+  "lbl_ConnectionLossErrorMsg": {
+    "text": "Bezpieczeństwo jest dla nas ważne. Byłeś nieaktywny przez jakiś czas, dlatego zostałeś automatycznie wylogowany ze swojej sesji."
   },
-  "lbl_ConnectionLossHeading" : {
-    "text":"LIMIT CZASU BEZPIECZEŃSTWA"
-  },
-
-  "lbl_InSufficientFundErrorHeading" : {
-    "text":"NIEWYSTARCZAJĄCE ŚRODKI"
-  },
-  "lbl_InSufficientFundErrorMsg" : {
-    "text":"Brak wystarczających środków, by zakończyć rundę."
+  "lbl_ConnectionLossHeading": {
+    "text": "LIMIT CZASU BEZPIECZEŃSTWA"
   },
 
-  "lbl_ShowBrokenPopUpHeading" : {
-    "text":"WZNAWIANIE POPRZEDNIEJ GRY"
+  "lbl_InSufficientFundErrorHeading": {
+    "text": "NIEWYSTARCZAJĄCE ŚRODKI"
   },
-  "lbl_ShowBrokenPopUpText" :{
-    "text":"Widzimy, że poprzedniej gdy nie \n ukończono. Wznowimy ją teraz, \n abyś mógł/mogła ją kontynuować."
+  "lbl_InSufficientFundErrorMsg": {
+    "text": "Brak wystarczających środków, by zakończyć rundę."
   },
-  "lbl_GameOnIEBrowserErrorMsg":{
-    "text":"Wykryliśmy, że grasz na przeglądarce IE11, co może powodować problemy z dźwiękiem w grze, zalecamy grę na powszechnie używanych przeglądarkach, by mieć więcej przyjemności z grania."
+
+  "lbl_ShowBrokenPopUpHeading": {
+    "text": "WZNAWIANIE POPRZEDNIEJ GRY"
   },
-  "lbl_GameOnUCBrowserErrorMsg":{
-    "text":"We have detected that you are playing game on UC browser \n which may cause some sound issues in the game, we recommend you to play \n this game on mainstream browsers for best experience."
+  "lbl_ShowBrokenPopUpText": {
+    "text": "Widzimy, że poprzedniej gdy nie \n ukończono. Wznowimy ją teraz, \n abyś mógł/mogła ją kontynuować."
   },
-  "lbl_GameOnUnSupportedDevicesErrorMsg":{
-    "text" : "Wykryliśmy, że ściągasz grę na iPad2, który nie jest urządzeniem kompatybilnym z tą grą, prosimy zmienić na urządzenie z wyższą wersją, by mieć więcej przyjemności z grania."
+  "lbl_GameOnIEBrowserErrorMsg": {
+    "text": "Wykryliśmy, że grasz na przeglądarce IE11, co może powodować problemy z dźwiękiem w grze, zalecamy grę na powszechnie używanych przeglądarkach, by mieć więcej przyjemności z grania."
   },
-  "lbl_GameOnIEBrowserHeading":{
-    "text" : "ALERT"
+  "lbl_GameOnUCBrowserErrorMsg": {
+    "text": "We have detected that you are playing game on UC browser \n which may cause some sound issues in the game, we recommend you to play \n this game on mainstream browsers for best experience."
   },
-  "lbl_GameOnUCBrowserHeading":{
-    "text" : "ALERT"
+  "lbl_GameOnUnSupportedDevicesErrorMsg": {
+    "text": "Wykryliśmy, że ściągasz grę na iPad2, który nie jest urządzeniem kompatybilnym z tą grą, prosimy zmienić na urządzenie z wyższą wersją, by mieć więcej przyjemności z grania."
   },
- "lbl_GameOnUnSupportedDevicesHeading":{
-  "text" : "ALERT"
+  "lbl_GameOnIEBrowserHeading": {
+    "text": "ALERT"
+  },
+  "lbl_GameOnUCBrowserHeading": {
+    "text": "ALERT"
+  },
+  "lbl_GameOnUnSupportedDevicesHeading": {
+    "text": "ALERT"
   },
   "lbl_free_spins": {
     "text": "DARMOWE RUNDY"
   },
-  "lbl_tooltip_labelMaxBet" :{
+  "lbl_tooltip_labelMaxBet": {
     "text": "MAKSYMALNA STAWKA"
-   },
-   "lbl_tooltip_labelSpin" :{
+  },
+  "lbl_tooltip_labelSpin": {
     "text": "Działanie"
-   },
-   "lbl_tooltip_labelStop" :{
-    "text": "Stop"
-   },
-  
-   "lbl_tooltip_labelBetSettings":{
-    "text":"Ustawienia zakładu"
+  },
+  "lbl_tooltip_labelStop": {
+    "text": "Stop Autoplays"
+  },
+
+  "lbl_tooltip_labelBetSettings": {
+    "text": "Ustawienia zakładu"
   },
   "lbl_auto_play": {
     "text": "Gra automatyczna"
   },
-"lbl_tooltip_auto_play_off": {
-  "text": "Zatrzymać Autogra"
-},
-  "lbl_tooltip_labelGameSettings":{
+  "lbl_tooltip_auto_play_off": {
+    "text": "Zatrzymać Autogra"
+  },
+  "lbl_tooltip_labelGameSettings": {
     "text": "Ustawienia gry"
   },
   "lbl_tooltip_labelpaytable": {
@@ -544,7 +544,7 @@
   "lbl_tooltip_labelHome": {
     "text": "Dom"
   },
-  "lbl_tooltip_AudioOnAndOff":{
-    "text":"Włącz dźwięk/wyłączone"
+  "lbl_tooltip_AudioOnAndOff": {
+    "text": "Włącz dźwięk/wyłączone"
   }
 }

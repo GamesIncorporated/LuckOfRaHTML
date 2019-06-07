@@ -225,7 +225,7 @@
 	"sourceSize": {"w":210,"h":176},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"S6_anubis_1x1_00025.png":
+"S6_anubis_1x3_00025.png":
 {
 	"frame": {"x":214,"y":2138,"w":210,"h":176},
 	"rotated": false,
@@ -277,6 +277,6 @@
 	"format": "RGBA8888",
 	"size": {"w":426,"h":2672},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:2cdffda917bcb06b5d7dfe26d5932be1:e27e2766e705d182e63febf67cec0e37:3fef05a2fb0b44fd4cdab262a5fe0bab$"
+	"smartupdate": "$TexturePacker:SmartUpdate:e4100776e898f0ad23ff5b3fd120a035:cd089e0120b58ee8d3b3330ef83fd583:a9832d3bbafad564320843b81c54fc50$"
 }
 }

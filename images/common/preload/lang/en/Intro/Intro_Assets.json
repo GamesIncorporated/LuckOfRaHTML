@@ -1,6 +1,6 @@
 {"frames": {
 
-"Continue_Normal_en.png":
+"1Continue_Normal_en.png":
 {
 	"frame": {"x":2,"y":2,"w":301,"h":120},
 	"rotated": false,
@@ -9,7 +9,7 @@
 	"sourceSize": {"w":302,"h":120},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"Continue_Over_en.png":
+"2Continue_Over_en.png":
 {
 	"frame": {"x":2,"y":124,"w":301,"h":120},
 	"rotated": false,
@@ -18,7 +18,7 @@
 	"sourceSize": {"w":302,"h":120},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"Continue_Pressed_en.png":
+"3Continue_Pressed_en.png":
 {
 	"frame": {"x":2,"y":246,"w":271,"h":111},
 	"rotated": false,
@@ -27,7 +27,7 @@
 	"sourceSize": {"w":302,"h":120},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"Continue_Disable_en.png":
+"4Continue_Disable_en.png":
 {
 	"frame": {"x":2,"y":359,"w":302,"h":120},
 	"rotated": false,
@@ -84,7 +84,7 @@
 "meta": {
 	"app": "http://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "Intro_AssetsIntro_Assets.png",
+	"image": "Intro_Assets_atlas",
 	"format": "RGBA8888",
 	"size": {"w":465,"h":531},
 	"scale": "1",

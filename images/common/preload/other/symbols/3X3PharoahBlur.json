@@ -1,0 +1,102 @@
+{"frames": {
+
+"Pharoah_image1.png":
+{
+	"frame": {"x":0,"y":0,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pharoah_image2.png":
+{
+	"frame": {"x":210,"y":0,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pharoah_image3.png":
+{
+	"frame": {"x":420,"y":0,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pharoah_image4.png":
+{
+	"frame": {"x":0,"y":176,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pharoah_image5.png":
+{
+	"frame": {"x":210,"y":176,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pharoah_image6.png":
+{
+	"frame": {"x":420,"y":176,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pharoah_image7.png":
+{
+	"frame": {"x":0,"y":352,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pharoah_image8.png":
+{
+	"frame": {"x":210,"y":352,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pharoah_image9.png":
+{
+	"frame": {"x":420,"y":352,"w":210,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":176},
+	"sourceSize": {"w":210,"h":176},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Pharoah_fullFrame.png":
+{
+	"frame": {"x":0,"y":0,"w":630,"h":528},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":630,"h":528},
+	"sourceSize": {"w":630,"h":528},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "3X3PharoahBlur.png",
+	"format": "RGBA8888",
+	"size": {"w":630,"h":528},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cde2ee4a0504c3f1caa735a155c7ad07:ac0b572228de65af998102e172f188d5:1511b0b307777285dec981cc0afa7739$"
+}
+}

@@ -411,7 +411,7 @@
   "lbl_ok": {
     "text": "OK"
   },
-  "lbl_freeplay_sentence": { 
+  "lbl_freeplay_sentence": {
     "text": "Imate %freePlayCounter% BESPLATNIH IGRI na %freePlayStake% Stakeu"
   },
   "lbl_slot_machine_sentence": {
@@ -438,92 +438,92 @@
   "lbl_back_to_game": {
     "text": "BACK TO GAME"
   },
- 
-  "lbl_BetSettings":{
-    "text":"Bet Settings"
+
+  "lbl_BetSettings": {
+    "text": "Bet Settings"
   },
-  "lbl_NumberOfSpins":{
-    "text":"Number Of Spins"
+  "lbl_NumberOfSpins": {
+    "text": "Number Of Spins"
   },
-  "lbl_NumberOfSpinsOff":{
-    "text":"OFF"
+  "lbl_NumberOfSpinsOff": {
+    "text": "OFF"
   },
-  "lbl_NoLimits":{
-    "text":"BEZ GRANICA"
+  "lbl_NoLimits": {
+    "text": "BEZ GRANICA"
   },
-  "lbl_RealityCheckHeading" : {
-    "text":"PROVJERA STVARNOSTI"
+  "lbl_RealityCheckHeading": {
+    "text": "PROVJERA STVARNOSTI"
   },
-  "lbl_RealityCheckText" : {
-    "text":"Zahtijevali ste Provjeru u stvarnom vremenu svakih %n % minute/a igranja. Vaša sesija igranja %s% već traje minuta"
+  "lbl_RealityCheckText": {
+    "text": "Zahtijevali ste Provjeru u stvarnom vremenu svakih \n% minute/a igranja. Vaša sesija igranja % već traje minuta"
   },
-  "lbl_NetworkErrorHeading" : {
-    "text":"PREKINUTA VEZA"
+  "lbl_NetworkErrorHeading": {
+    "text": "PREKINUTA VEZA"
   },
-  "lbl_NetworkErrorMsg" : {
-    "text":"Izgubili ste vezu s poslužiteljem za igru. \n Ponovno pokrenite igru i pokušajte ponovo."
+  "lbl_NetworkErrorMsg": {
+    "text": "Izgubili ste vezu s poslužiteljem za igru. \n Ponovno pokrenite igru i pokušajte ponovo."
   },
-  "lbl_ConnectionLossErrorMsg" : {
-    "text":"Važna nam je sigurnost. Budući da niste aktivni neko vrijeme, automatski smo vas odjavili iz vaše sesije igre."
+  "lbl_ConnectionLossErrorMsg": {
+    "text": "Važna nam je sigurnost. Budući da niste aktivni neko vrijeme, automatski smo vas odjavili iz vaše sesije igre."
   },
-  "lbl_ConnectionLossHeading" : {
-    "text":"SIGURNOST VREMENA"
+  "lbl_ConnectionLossHeading": {
+    "text": "SIGURNOST VREMENA"
   },
 
-  "lbl_InSufficientFundErrorHeading" : {
-    "text":"NEDOVOLJAN FOND"
+  "lbl_InSufficientFundErrorHeading": {
+    "text": "NEDOVOLJAN FOND"
   },
-  "lbl_InSufficientFundErrorMsg" : {
-    "text":"Nemate dovoljno sredstava za obrtaj."
+  "lbl_InSufficientFundErrorMsg": {
+    "text": "Nemate dovoljno sredstava za obrtaj."
   },
 
-  "lbl_ShowBrokenPopUpHeading" : {
-    "text":"NASTAVLJANJE IGRANJA \n PRETHODNE IGRE"
+  "lbl_ShowBrokenPopUpHeading": {
+    "text": "NASTAVLJANJE IGRANJA \n PRETHODNE IGRE"
   },
-  "lbl_ShowBrokenPopUpText" :{
-    "text":"Zapazili smo da niste \n završili prethodnu igru. Pokrenut ćemo ponovno igru \n kako biste ja nastavili igrati."
+  "lbl_ShowBrokenPopUpText": {
+    "text": "Zapazili smo da niste \n završili prethodnu igru. Pokrenut ćemo ponovno igru \n kako biste ja nastavili igrati."
   },
-  "lbl_GameOnIEBrowserErrorMsg":{
-    "text":"Otkrili smo da igrate igru u inačici 11 preglednika Internet Explorer što može uzrokovati probleme sa zvukom u igri. Preporučujemo vam da igrate ovu igru u popularnijim preglednicima kako biste uživali u boljem iskustvu."
+  "lbl_GameOnIEBrowserErrorMsg": {
+    "text": "Otkrili smo da igrate igru u inačici 11 preglednika Internet Explorer što može uzrokovati probleme sa zvukom u igri. Preporučujemo vam da igrate ovu igru u popularnijim preglednicima kako biste uživali u boljem iskustvu."
   },
-  "lbl_GameOnUCBrowserErrorMsg":{
-    "text":"We have detected that you are playing game on UC browser \n which may cause some sound issues in the game, we recommend you to play \n this game on mainstream browsers for best experience."
+  "lbl_GameOnUCBrowserErrorMsg": {
+    "text": "We have detected that you are playing game on UC browser \n which may cause some sound issues in the game, we recommend you to play \n this game on mainstream browsers for best experience."
   },
-  "lbl_GameOnUnSupportedDevicesErrorMsg":{
-    "text" : "Otkrili smo da učitavate igru na uređaju iPad2 koji nije kompatibilan za pokretanje ove igre. Prijeđite na višu verziju uređaja kako biste uživali u boljem iskustvu igranja ove igre."
+  "lbl_GameOnUnSupportedDevicesErrorMsg": {
+    "text": "Otkrili smo da učitavate igru na uređaju iPad2 koji nije kompatibilan za pokretanje ove igre. Prijeđite na višu verziju uređaja kako biste uživali u boljem iskustvu igranja ove igre."
   },
-  "lbl_GameOnIEBrowserHeading":{
-    "text" : "ALERT"
+  "lbl_GameOnIEBrowserHeading": {
+    "text": "ALERT"
   },
-  "lbl_GameOnUCBrowserHeading":{
-    "text" : "ALERT"
+  "lbl_GameOnUCBrowserHeading": {
+    "text": "ALERT"
   },
- "lbl_GameOnUnSupportedDevicesHeading":{
-  "text" : "ALERT"
+  "lbl_GameOnUnSupportedDevicesHeading": {
+    "text": "ALERT"
   },
   "lbl_free_spins": {
     "text": "„BESPLATNI OBRTAJI"
   },
-  "lbl_tooltip_labelMaxBet" :{
+  "lbl_tooltip_labelMaxBet": {
     "text": "NAJVEĆI ULOG"
-   },
-   "lbl_tooltip_labelSpin" :{
+  },
+  "lbl_tooltip_labelSpin": {
     "text": "Zavrti"
-   },
-   "lbl_tooltip_labelStop" :{
-    "text": "Stop"
-   },
-  
-   "lbl_tooltip_labelBetSettings":{
-    "text":"Postavke uloga"
+  },
+  "lbl_tooltip_labelStop": {
+    "text": "Stop Autoplays"
+  },
+
+  "lbl_tooltip_labelBetSettings": {
+    "text": "Postavke uloga"
   },
   "lbl_auto_play": {
     "text": "Automatski odigraj"
   },
-"lbl_tooltip_auto_play_off": {
-  "text": "Stop Autoplays"
-},
-  "lbl_tooltip_labelGameSettings":{
+  "lbl_tooltip_auto_play_off": {
+    "text": "Stop Autoplays"
+  },
+  "lbl_tooltip_labelGameSettings": {
     "text": "Zaustaviti Automatska odigravanja"
   },
   "lbl_tooltip_labelpaytable": {
@@ -544,8 +544,8 @@
   "lbl_tooltip_labelHome": {
     "text": "Početna stranica"
   },
-  "lbl_tooltip_AudioOnAndOff":{
-    "text":"Zvuk uključeno/isključen"
+  "lbl_tooltip_AudioOnAndOff": {
+    "text": "Zvuk uključeno/isključen"
   }
 
 }

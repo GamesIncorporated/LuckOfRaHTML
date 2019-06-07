@@ -96,6 +96,12 @@
       "jsonURL": "resource/font/Select_Value.fnt",
       "type": "bitmapfont"
     },
+    "bonusBuyFont": {
+      "key": "bonusBuyFont",
+      "url": "resource/font/Bonus_buy_value.png",
+      "jsonURL": "resource/font/Bonus_buy_value.fnt",
+      "type": "bitmapfont"
+    },
     "TotalBetWithCurrencyFont": {
       "key": "TotalBetWithCurrencyFont",
       "url": "resource/font/Total_Bet_Currency.png",
